@@ -1,0 +1,13 @@
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\bin\Debug\netcoreapp3.1\PedidoConsole.exe
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\bin\Debug\netcoreapp3.1\PedidoConsole.deps.json
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\bin\Debug\netcoreapp3.1\PedidoConsole.runtimeconfig.json
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\bin\Debug\netcoreapp3.1\PedidoConsole.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\bin\Debug\netcoreapp3.1\PedidoConsole.dll
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\bin\Debug\netcoreapp3.1\PedidoConsole.pdb
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\obj\Debug\netcoreapp3.1\PedidoConsole.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\obj\Debug\netcoreapp3.1\PedidoConsole.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\obj\Debug\netcoreapp3.1\PedidoConsole.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\obj\Debug\netcoreapp3.1\PedidoConsole.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\obj\Debug\netcoreapp3.1\PedidoConsole.dll
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\obj\Debug\netcoreapp3.1\PedidoConsole.pdb
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\PedidoConsole\obj\Debug\netcoreapp3.1\PedidoConsole.genruntimeconfig.cache
